@@ -272,6 +272,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 ### Permissions
 - [django-role-permissions](https://github.com/vintasoftware/django-role-permissions) - Django app for role-based permissions management.
 - [django-guardian](https://github.com/django-guardian/django-guardian) - Per object permissions in Django.
+- [Implementing Role-Based Access Control (RBAC) into a Django Application](https://www.permit.io/blog/how-to-implement-role-based-access-control-rbac-into-a-django-application) - A step-by-step guide for implementing Role Based Access Control (RBAC) in Django.
 - [django-rules](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions, built from the ground up for Django.
 
 ### Search
